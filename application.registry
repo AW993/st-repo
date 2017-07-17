@@ -4,3 +4,7 @@ Controllers: MainController
 Windows:
 WebServices: 
 
+App: RoomManagerApp
+Controllers: MainController
+Windows: ConfigurationWindow
+WebServices: 
